@@ -80,10 +80,15 @@ https://jate-te1.onrender.com
 ## Screenshots
 
 The Text Editor web application running as a freestanding Progressive Web App (PWA) icon on the desktop:
+
 ![Screenshot 2024-05-05 184911](https://github.com/MohnishBhujun/JATE-TE1/assets/149837818/714daeaa-2114-4090-86e9-e1918d548071)
 
+
 The application's manifest.json file:
+
 ![Screenshot 2024-05-05 184523](https://github.com/MohnishBhujun/JATE-TE1/assets/149837818/9a123ff9-b628-48e9-a6b5-bf2e745c8ca9)
 
+
 The application's IndexedDB storage:
+
 ![Screenshot 2024-05-05 184708](https://github.com/MohnishBhujun/JATE-TE1/assets/149837818/559ca220-5697-493e-abfa-19bdf797183d)
